@@ -15,3 +15,5 @@ Os bancos de dados utilizdos foram:
 O **S1** foi desenvolvido em TypeScript com next.js e react, por serem tecnologias nativas com web.
 
 O **S2** foi desenvolvido em Python com fastAPI, realizando a comunicação com os banco de dados por meio da ORM sqlmodel (para o Postgresql), da ODM Beanie (para o MongoDB) e dos drivers do DataStax Astra (para o Cassandra).
+
+**As instruções de como rodar o projeto estão no README.MD da pasta S1-Polyglot-FrontEnd**
